@@ -34,6 +34,7 @@ public class NearestNeighbour {
         System.out.println(" ED NN = "+p2);
 
 
+// Define an interface with a static variable, a static method, and a default method
 
 
     }
